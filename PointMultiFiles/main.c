@@ -29,7 +29,7 @@ int n=3;
 int m;
 	//float z;
 	point p;
-	p.x = 1;
+	p.x = 20;
 	p.y = 2;
 
 	//z = sqrt(16);
@@ -37,7 +37,7 @@ int m;
 //	printf("Henrik %d  %f\n", p.x, z);
 	move(&p);
 	m=timesTwo(n);
-	printf("Henrik %d %d \n", m,p.x);
+	printf("Henrik %d %d %d \n", m,p.x,p.y);
 
 	//return EXIT_SUCCESS;
 

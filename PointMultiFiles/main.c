@@ -25,12 +25,12 @@ void move(point *p)
 //}
 int main(int argc, char *argv[])
 {
-int n=5;
+int n=3;
 int m;
 	//float z;
 	point p;
-	p.x = 18;
-	p.y = 15;
+	p.x = 1;
+	p.y = 2;
 
 	//z = sqrt(16);
 
